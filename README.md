@@ -16,6 +16,13 @@ Here you'll find beginning resources, the code we will work with, and anything e
 
 # Learning to code
 
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+[Learn Python The Hard Way](https://learnpythonthehardway.org/)
+
+[Why's (Poignant) Guide to Ruby](https://poignant.guide/)
+
+[Think Python 2e](https://greenteapress.com/wp/think-python-2e/)
 # This and that
 
 ## FizzBuzz, much more than you ever wanted to know
