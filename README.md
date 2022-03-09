@@ -12,7 +12,7 @@ Here you'll find beginning resources, the code we will work with, and anything e
 
 # Slides
 
-[Think like a programmer and Talk engineering to me](https://docs.google.com/presentation/d/1drEf9AXhgpenGbMbpAPymKI9i1NobgAsB1LZn2qZi0E/edit?usp=sharing)
+[Think like a programmer and Talk engineering to me](https://docs.google.com/presentation/d/1LfNevJTx7f4ameq_m2pqP-9gMs7bscoYoB9GkYl65Mg/edit?usp=sharing)
 
 # Learning to code
 
