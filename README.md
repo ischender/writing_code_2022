@@ -48,6 +48,10 @@ _What they had in common was mainly love of excellence and programming. They wan
 
 [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
 
+[Hacker's Law](https://github.com/dwmkerr/hacker-laws)
+
+EG: KISS (keep it simple, stupid), YAGNI (You Ain't Gonna Need It, _Always implement things when you actually need them, never when you just foresee that you need them_ )
+
 ## Humor for coders and hackers
 
 Coders and the like love humor, and making fun of the many frustrations and absurdities involved.
